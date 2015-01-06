@@ -1,0 +1,688 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SelectedLanguage>Vietnamese</SelectedLanguage>
+  <LeagueOfLegendsExePath>E:\Game\game oline\LienMinhHuyenThoai\GameData\Apps\LoLVN\Game\League of Legends.exe</LeagueOfLegendsExePath>
+  <FirstRun>false</FirstRun>
+  <ShowDevOptions>false</ShowDevOptions>
+  <Install>true</Install>
+  <UpdateOnLoad>false</UpdateOnLoad>
+  <Username>manhduyvyvp</Username>
+  <Password>dacb7109b1b0c438f5e94b30abb5ee58</Password>
+  <Settings>
+    <GameSettings>
+      <GameSettings>
+        <Name>Anti-AFK</Name>
+        <PosibleValues>
+          <string>True</string>
+          <string>False</string>
+        </PosibleValues>
+        <SelectedValue>True</SelectedValue>
+      </GameSettings>
+      <GameSettings>
+        <Name>Debug Console</Name>
+        <PosibleValues>
+          <string>True</string>
+          <string>False</string>
+        </PosibleValues>
+        <SelectedValue>False</SelectedValue>
+      </GameSettings>
+      <GameSettings>
+        <Name>Display Enemy Tower Range</Name>
+        <PosibleValues>
+          <string>True</string>
+          <string>False</string>
+        </PosibleValues>
+        <SelectedValue>False</SelectedValue>
+      </GameSettings>
+      <GameSettings>
+        <Name>Extended Zoom</Name>
+        <PosibleValues>
+          <string>True</string>
+          <string>False</string>
+        </PosibleValues>
+        <SelectedValue>True</SelectedValue>
+      </GameSettings>
+    </GameSettings>
+  </Settings>
+  <Hotkeys>
+    <SelectedHotkeys>
+      <SelectedHotkeys>
+        <Name>Reload</Name>
+        <Description>Reload the assemblies</Description>
+        <Hotkey>F5</Hotkey>
+        <HotkeyInt>116</HotkeyInt>
+        <DefaultKey>F5</DefaultKey>
+      </SelectedHotkeys>
+      <SelectedHotkeys>
+        <Name>CompileAndReload</Name>
+        <Description>Recompile and reload the assemblies</Description>
+        <Hotkey>F8</Hotkey>
+        <HotkeyInt>119</HotkeyInt>
+        <DefaultKey>F8</DefaultKey>
+      </SelectedHotkeys>
+      <SelectedHotkeys>
+        <Name>ShowMenuPress</Name>
+        <Description>Shows the menu (Press)</Description>
+        <Hotkey>LeftShift</Hotkey>
+        <HotkeyInt>16</HotkeyInt>
+        <DefaultKey>LeftShift</DefaultKey>
+      </SelectedHotkeys>
+      <SelectedHotkeys>
+        <Name>ShowMenuToggle</Name>
+        <Description>Shows the menu (Toggle)</Description>
+        <Hotkey>F9</Hotkey>
+        <HotkeyInt>120</HotkeyInt>
+        <DefaultKey>F9</DefaultKey>
+      </SelectedHotkeys>
+    </SelectedHotkeys>
+  </Hotkeys>
+  <SelectedProfile>
+    <Name>Default</Name>
+    <InstalledAssemblies>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>true</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>LeagueSharp.Common</DisplayName>
+        <Name>LeagueSharp.Common</Name>
+        <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\8A7DEFD1\trunk\LeagueSharp.Common\LeagueSharp.Common\LeagueSharp.Common.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/LeagueSharp/LeagueSharpCommon</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>false</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>Xerath</DisplayName>
+        <Name>Xerath</Name>
+        <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\1BA0420E\trunk\Xerath\Xerath.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/Esk0r/LeagueSharp</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>false</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>Marksman</DisplayName>
+        <Name>Marksman</Name>
+        <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\1BA0420E\trunk\Marksman\Marksman.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/Esk0r/LeagueSharp</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>true</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>DevCommom</DisplayName>
+        <Name>DevCommom</Name>
+        <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\FF5A0427\trunk\DevCommom\DevCommom.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/InjectionDev/LeagueSharp</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>false</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>DevKarma</DisplayName>
+        <Name>DevKarma</Name>
+        <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\FF5A0427\trunk\DevKarma\DevKarma.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/InjectionDev/LeagueSharp</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>false</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>DevBrand</DisplayName>
+        <Name>DevBrand</Name>
+        <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\FF5A0427\trunk\DevBrand\DevBrand.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/InjectionDev/LeagueSharp</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>true</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>BaseUlt3</DisplayName>
+        <Name>BaseUlt3</Name>
+        <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\367DEEFB\trunk\BaseUlt3\BaseUlt3.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/Beaving/LeagueSharp</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>true</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>Evade</DisplayName>
+        <Name>Evade</Name>
+        <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\1BA0420E\trunk\Evade\Evade.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/Esk0r/LeagueSharp</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>false</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>KurisuNidalee</DisplayName>
+        <Name>KurisuNidalee</Name>
+        <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\871BD495\trunk\KurisuNidalee\KurisuNidalee.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/Kurisu44/Leaguesharp</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>false</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>LeaguesharpStreamingMode</DisplayName>
+        <Name>LeaguesharpStreamingMode</Name>
+        <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\9AB94A3D\trunk\LeaguesharpStreamingMode\LeaguesharpStreamingMode.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/stefsot/LeaguesharpStreamingMode</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>false</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>Master Series</DisplayName>
+        <Name>Master Series</Name>
+        <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\75755C0F\trunk\Master Series\Master Series.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/brian0305/MasterSeries</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>false</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>Katarina</DisplayName>
+        <Name>Katarina</Name>
+        <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\AE72DDF8\trunk\Katarina\Katarina.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/TC-Crew/L-Assemblies</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>false</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>xSaliceReligionAIO</DisplayName>
+        <Name>xSaliceReligionAIO</Name>
+        <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\CFB1B437\trunk\xSaliceReligionAIO\xSaliceReligionAIO\xSaliceReligionAIO.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/xSalice/LSharp</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>true</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>MasterActivator</DisplayName>
+        <Name>MasterActivator</Name>
+        <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\B5AB2C6A\trunk\MasterActivator\MasterActivator.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/Crisdmc/LeagueSharp</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>false</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>Tracker</DisplayName>
+        <Name>Tracker</Name>
+        <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\AE72DDF8\trunk\Tracker\Tracker.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/TC-Crew/L-Assemblies</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>false</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>Kalista</DisplayName>
+        <Name>Kalista</Name>
+        <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\9D4CA12F\trunk\Kalista\Kalista.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/Hellsing/LeagueSharp</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>false</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>Pentakill Syndra</DisplayName>
+        <Name>Pentakill Syndra</Name>
+        <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\D89197BE\trunk\Pentakill Syndra Fix 4.21\Pentakill Syndra\Pentakill Syndra.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/WinryFB/Assemblies</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>false</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>KurisuRiven</DisplayName>
+        <Name>KurisuRiven</Name>
+        <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\871BD495\trunk\KurisuRiven\KurisuRiven.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/Kurisu44/Leaguesharp</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>false</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>VayneHunterRework</DisplayName>
+        <Name>VayneHunterRework</Name>
+        <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\212EF0DE\trunk\VayneHunterRework\VayneHunterRework\VayneHunterRework.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/DZ191/LeagueSharp</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>false</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>ChewyMoonsLux</DisplayName>
+        <Name>ChewyMoonsLux</Name>
+        <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\FDE57C9F\trunk\ChewyMoonsLux\ChewyMoonsLux.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/ChewyMoon/ChewyMoonScripts</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>true</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>SpellDetector</DisplayName>
+        <Name>SpellDetector</Name>
+        <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\5129B1DE\trunk\SpellDetector\SpellDetector.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/h3h3/LeagueSharp</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>false</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>Support</DisplayName>
+        <Name>Support</Name>
+        <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\5129B1DE\trunk\Support\Support.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/h3h3/LeagueSharp</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>false</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>DevCassio</DisplayName>
+        <Name>DevCassio</Name>
+        <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\B3010427\trunk\DevCassio\DevCassio.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/InjectionDev/LeagueSharp/</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>true</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>AutoLevelSpells</DisplayName>
+        <Name>AutoLevelSpells</Name>
+        <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\612A33\trunk\AutoLevelSpells\AutoLevelSpells.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/trees-software/leaguesharp</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>false</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>DZDraven Reloaded</DisplayName>
+        <Name>DZDraven Reloaded</Name>
+        <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\212EF0DE\trunk\DZDravenReloaded\DZDraven Reloaded\DZDraven Reloaded.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/DZ191/LeagueSharp</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>true</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>Jinx</DisplayName>
+        <Name>Jinx</Name>
+        <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\92E8AF66\trunk\Jinx\Jinx.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/OneKeyToWin/LeagueRepo</SvnUrl>
+      </LeagueSharpAssembly>
+      <LeagueSharpAssembly>
+        <InstallChecked>true</InstallChecked>
+        <InjectChecked>false</InjectChecked>
+        <Status>Ready</Status>
+        <DisplayName>GagongSyndra</DisplayName>
+        <Name>GagongSyndra</Name>
+        <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\524D096C\trunk\GagongSyndra\GagongSyndra.csproj</PathToProjectFile>
+        <Description />
+        <SvnUrl>https://github.com/stephenjason89/LeagueSharp</SvnUrl>
+      </LeagueSharpAssembly>
+    </InstalledAssemblies>
+  </SelectedProfile>
+  <Profiles>
+    <Profiles>
+      <Name>Default</Name>
+      <InstalledAssemblies>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>true</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>LeagueSharp.Common</DisplayName>
+          <Name>LeagueSharp.Common</Name>
+          <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\8A7DEFD1\trunk\LeagueSharp.Common\LeagueSharp.Common\LeagueSharp.Common.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/LeagueSharp/LeagueSharpCommon</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>Xerath</DisplayName>
+          <Name>Xerath</Name>
+          <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\1BA0420E\trunk\Xerath\Xerath.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/Esk0r/LeagueSharp</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>Marksman</DisplayName>
+          <Name>Marksman</Name>
+          <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\1BA0420E\trunk\Marksman\Marksman.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/Esk0r/LeagueSharp</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>true</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>DevCommom</DisplayName>
+          <Name>DevCommom</Name>
+          <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\FF5A0427\trunk\DevCommom\DevCommom.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/InjectionDev/LeagueSharp</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>DevKarma</DisplayName>
+          <Name>DevKarma</Name>
+          <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\FF5A0427\trunk\DevKarma\DevKarma.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/InjectionDev/LeagueSharp</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>DevBrand</DisplayName>
+          <Name>DevBrand</Name>
+          <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\FF5A0427\trunk\DevBrand\DevBrand.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/InjectionDev/LeagueSharp</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>true</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>BaseUlt3</DisplayName>
+          <Name>BaseUlt3</Name>
+          <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\367DEEFB\trunk\BaseUlt3\BaseUlt3.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/Beaving/LeagueSharp</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>true</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>Evade</DisplayName>
+          <Name>Evade</Name>
+          <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\1BA0420E\trunk\Evade\Evade.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/Esk0r/LeagueSharp</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>KurisuNidalee</DisplayName>
+          <Name>KurisuNidalee</Name>
+          <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\871BD495\trunk\KurisuNidalee\KurisuNidalee.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/Kurisu44/Leaguesharp</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>LeaguesharpStreamingMode</DisplayName>
+          <Name>LeaguesharpStreamingMode</Name>
+          <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\9AB94A3D\trunk\LeaguesharpStreamingMode\LeaguesharpStreamingMode.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/stefsot/LeaguesharpStreamingMode</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>Master Series</DisplayName>
+          <Name>Master Series</Name>
+          <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\75755C0F\trunk\Master Series\Master Series.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/brian0305/MasterSeries</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>Katarina</DisplayName>
+          <Name>Katarina</Name>
+          <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\AE72DDF8\trunk\Katarina\Katarina.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/TC-Crew/L-Assemblies</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>xSaliceReligionAIO</DisplayName>
+          <Name>xSaliceReligionAIO</Name>
+          <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\CFB1B437\trunk\xSaliceReligionAIO\xSaliceReligionAIO\xSaliceReligionAIO.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/xSalice/LSharp</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>true</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>MasterActivator</DisplayName>
+          <Name>MasterActivator</Name>
+          <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\B5AB2C6A\trunk\MasterActivator\MasterActivator.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/Crisdmc/LeagueSharp</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>Tracker</DisplayName>
+          <Name>Tracker</Name>
+          <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\AE72DDF8\trunk\Tracker\Tracker.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/TC-Crew/L-Assemblies</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>Kalista</DisplayName>
+          <Name>Kalista</Name>
+          <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\9D4CA12F\trunk\Kalista\Kalista.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/Hellsing/LeagueSharp</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>Pentakill Syndra</DisplayName>
+          <Name>Pentakill Syndra</Name>
+          <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\D89197BE\trunk\Pentakill Syndra Fix 4.21\Pentakill Syndra\Pentakill Syndra.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/WinryFB/Assemblies</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>KurisuRiven</DisplayName>
+          <Name>KurisuRiven</Name>
+          <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\871BD495\trunk\KurisuRiven\KurisuRiven.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/Kurisu44/Leaguesharp</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>VayneHunterRework</DisplayName>
+          <Name>VayneHunterRework</Name>
+          <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\212EF0DE\trunk\VayneHunterRework\VayneHunterRework\VayneHunterRework.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/DZ191/LeagueSharp</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>ChewyMoonsLux</DisplayName>
+          <Name>ChewyMoonsLux</Name>
+          <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\FDE57C9F\trunk\ChewyMoonsLux\ChewyMoonsLux.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/ChewyMoon/ChewyMoonScripts</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>true</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>SpellDetector</DisplayName>
+          <Name>SpellDetector</Name>
+          <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\5129B1DE\trunk\SpellDetector\SpellDetector.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/h3h3/LeagueSharp</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>Support</DisplayName>
+          <Name>Support</Name>
+          <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\5129B1DE\trunk\Support\Support.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/h3h3/LeagueSharp</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>DevCassio</DisplayName>
+          <Name>DevCassio</Name>
+          <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\B3010427\trunk\DevCassio\DevCassio.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/InjectionDev/LeagueSharp/</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>true</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>AutoLevelSpells</DisplayName>
+          <Name>AutoLevelSpells</Name>
+          <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\612A33\trunk\AutoLevelSpells\AutoLevelSpells.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/trees-software/leaguesharp</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>DZDraven Reloaded</DisplayName>
+          <Name>DZDraven Reloaded</Name>
+          <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\212EF0DE\trunk\DZDravenReloaded\DZDraven Reloaded\DZDraven Reloaded.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/DZ191/LeagueSharp</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>true</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>Jinx</DisplayName>
+          <Name>Jinx</Name>
+          <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\92E8AF66\trunk\Jinx\Jinx.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/OneKeyToWin/LeagueRepo</SvnUrl>
+        </LeagueSharpAssembly>
+        <LeagueSharpAssembly>
+          <InstallChecked>true</InstallChecked>
+          <InjectChecked>false</InjectChecked>
+          <Status>Ready</Status>
+          <DisplayName>GagongSyndra</DisplayName>
+          <Name>GagongSyndra</Name>
+          <PathToProjectFile>C:\Users\Administrator\AppData\Roaming\LeagueSharp\Repositories\524D096C\trunk\GagongSyndra\GagongSyndra.csproj</PathToProjectFile>
+          <Description />
+          <SvnUrl>https://github.com/stephenjason89/LeagueSharp</SvnUrl>
+        </LeagueSharpAssembly>
+      </InstalledAssemblies>
+    </Profiles>
+  </Profiles>
+  <KnownRepositories>
+    <KnownRepositories>https://github.com/LeagueSharp/LeagueSharpCommon</KnownRepositories>
+    <KnownRepositories>https://github.com/Beaving/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/Esk0r/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/TC-Crew/L-Assemblies</KnownRepositories>
+    <KnownRepositories>https://github.com/trees-software/leaguesharp</KnownRepositories>
+    <KnownRepositories>https://github.com/blm95/LeagueSharp2</KnownRepositories>
+    <KnownRepositories>https://github.com/ChewyMoon/ChewyMoonScripts</KnownRepositories>
+    <KnownRepositories>https://github.com/h3h3/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/Hellsing/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/Kurisu44/Leaguesharp</KnownRepositories>
+    <KnownRepositories>https://github.com/Screeder/SAwareness</KnownRepositories>
+    <KnownRepositories>https://github.com/shalzuth/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/xQxCPMxQx/LeagueSharp2</KnownRepositories>
+    <KnownRepositories>https://github.com/xSalice/LSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/brian0305/MasterSeries</KnownRepositories>
+    <KnownRepositories>https://github.com/diabaths/sharperino</KnownRepositories>
+    <KnownRepositories>https://github.com/DZ191/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/FlapperDoodlez/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/imsosharp/leaguesharp</KnownRepositories>
+    <KnownRepositories>https://github.com/InjectionDev/LeagueSharp/</KnownRepositories>
+    <KnownRepositories>https://github.com/JackisSharp/leaguesharp</KnownRepositories>
+    <KnownRepositories>https://github.com/metaphorce/leaguesharp</KnownRepositories>
+    <KnownRepositories>https://github.com/SephLeague/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/SKOBoL/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/TheSaltyWaffle/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/WorstPing/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/yol0swag/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/Areidz/Leaguesharp</KnownRepositories>
+    <KnownRepositories>https://github.com/DangerousMindLoL/league-sharp</KnownRepositories>
+    <KnownRepositories>https://github.com/fueledbyflux/LeagueSharp-Public</KnownRepositories>
+    <KnownRepositories>https://github.com/Snorflake/SFScripts</KnownRepositories>
+    <KnownRepositories>https://github.com/TheKushStyle/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/Chogart/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/lKk2/LeagueSharp/</KnownRepositories>
+    <KnownRepositories>https://github.com/jasteph/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/MadScripts/Beaving</KnownRepositories>
+    <KnownRepositories>https://github.com/JoKerr-/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/madk/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/gFederal/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/Xionanx/Leaguesharp-Projects</KnownRepositories>
+    <KnownRepositories>https://github.com/ikkeflikkeri/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/yol0swag/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/LittleRedEye/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/Crisdmc/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/trus/L-</KnownRepositories>
+    <KnownRepositories>https://github.com/Jaskot/TritonSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/VivitheWitch/LS</KnownRepositories>
+    <KnownRepositories>https://github.com/AnimatedHF/Leaguesharp</KnownRepositories>
+    <KnownRepositories>https://github.com/Irvinee/leaguesharp</KnownRepositories>
+    <KnownRepositories>https://github.com/GuiltyWolf/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/blackyy/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/DarkAzazel/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/zUsername/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/MadScripts/LeagueSharp</KnownRepositories>
+    <KnownRepositories>https://github.com/alrik94/LeagueSharp</KnownRepositories>
+  </KnownRepositories>
+</Config>
